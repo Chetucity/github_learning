@@ -1,0 +1,19 @@
+Steps for Amend
+
+1)	Go to learngit repo
+2)	Check the status
+3)	Now create a file – amend.txt
+4)	Add a heading with mistakes in the text “ We are teaching git amend command”
+5)	Now check the status
+6)	Move the file to staging area
+7)	Commit the changes
+8)	Now you want to rectify the change with the awareness of others
+9)	Check the one line log
+10)	Now correct the text as - “ We are learning git amend command”
+11)	Go to repo and check the status
+12)	File is visible in unstaged stage
+13)	Move the file to staged
+14)	Commit the changes but with the help of using the amend command
+15)	Check the one line log
+16)	Your log will show the same no of commit, but the last commit will be updated with the correct information.
+
